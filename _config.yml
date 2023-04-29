@@ -82,39 +82,18 @@ analytics:
 author:
   name             : "Selim Boukabara"
   avatar           : "Selim Picture.jpeg"
-  bio              : "Post-Baccalaureate Fellow at NIH"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Intramural Research Training Award (IRTA) Fellow"
+  location         : "Baltimore"
+  employer         : "National Institutes of Health"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CeFOWKAAAAAJ"
   email            : "selim.boukabara@nih.gov"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  facebook         : "https://www.facebook.com/selim.boukabara.9/"
   github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/selimboukabara/?hl=en"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  linkedin         : "https://www.linkedin.com/in/selim-boukabara"
+  twitter          : "@SelimBoukabara"
 
 
 # Reading Files
