@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "Selim", "Boukabara", "Selim Boukabara"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -94,6 +94,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   linkedin         : "selim-boukabara"
   twitter          : "@SelimBoukabara"
+  KAYA             : "
 
 
 # Reading Files
