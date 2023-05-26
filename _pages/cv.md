@@ -19,17 +19,15 @@ Education
   * Biomedical Commercialization and Translation, Expected: December 2023
   * Leadership, Expected: December 2023
 
-Work experience
+Things I did I'm proud of
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Proposed a referendum to lower the voting age to 16 in the largest city in America at the time
+* Presented to an inter-disciplinary conference at the NASA Goddard Space Flight Center
+* Spoke at the premier annual conference for physician scientists and physician scientist trainees
+* James Douglass Goddard Memorial Medal Awardee for Education, Service, and Leadership in Prince George's County
+* 3X National YouthStepUSA Stepping Champion 
+* Fluent in French (Maryland Seal of Biliteracy), Algerian Arabic
+* Fair in Spanish (47765 XP in Duolingo and counting)
   
 Skills
 ======
