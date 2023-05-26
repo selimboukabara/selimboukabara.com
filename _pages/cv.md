@@ -14,6 +14,7 @@ Education
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87a18ca2-eb68-47c4-8d54-0092e78fc564" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Work experience
 ======
