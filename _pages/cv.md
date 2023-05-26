@@ -14,7 +14,7 @@ Education
 * B.S. in Biochemistry, University of Maryland, College Park, 2022
 * FAES Microcredentials
   * Bioinformatics Credential, May 2023 
-  * <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87a18ca2-eb68-47c4-8d54-0092e78fc564" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87a18ca2-eb68-47c4-8d54-0092e78fc564" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   * Biomedical Sciences Endeavor, Expected: June 2023
   * Biomedical Commercialization and Translation, Expected: December 2023
   * Leadership, Expected: December 2023
