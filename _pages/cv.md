@@ -21,38 +21,37 @@ Things I did I'm proud of
 ======
 * Proposed a referendum to lower the voting age to 16 in the largest city in America at the time
 * Presented to an inter-disciplinary conference at the NASA Goddard Space Flight Center
-* Spoke at the premier annual conference for physician scientists and physician scientist trainees
+* Panelist at the premier annual conference for physician scientists and physician scientist trainees
 * James Douglass Goddard Memorial Medal Awardee for Education, Service, and Leadership in Prince George's County
-* 3X National YouthStepUSA Stepping Champion 
-* Fluent in French (Maryland Seal of Biliteracy), Algerian Arabic
-* Fair in Spanish (47765 XP in Duolingo and counting)
+* One of Three 3X National YouthStepUSA Stepping Champions
+* Fluent in French (Maryland Seal of Biliteracy), Fluent in Algerian Arabic, and Fair in Spanish (47765 XP in Duolingo and counting)
+* Teach a course in consciousness
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis (Numpy, Pandas, ImageJ, MATLAB, R)
+* Communication 
+* Work Ethic
+* Clinical Research
+* Biochemistry
+* Neuroscience
+* fMRI
+* Immunofluorescence Staining
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+_(In preparation)_ Monica L. Faulkner, Mary R. Lee, Mehdi Farokhnia, Lisa A. Farinelli, Brittney D. Browning, Kelly M. Abshire, Vikas Munjal, Allison Daurio, Sara L. Deschaine, Selim Boukabara, Christopher Fortney, Melanie L. Schwandt, Fatemeh Akhlaghi, Reza Momenan, Tom J. Ross, Susan Persky, Lorenzo Leggio. Effects of a novel GHSR inverse agonist on alcohol- and food-related outcomes in individuals with alcohol use disorder: An experimental medicine study. 
+_(In preparation)_ Selim Boukabara, Mehdi Farokhnia, Lorenzo Leggio. A potential synergistic role of amylin in alcohol use disorder. 
+_(In preparation)_ Selim Boukabara, Garrick Sherman, Stephanie Weiss, Olivia Jennings, Melanie Schwandt, Lorenzo Leggio. A machine learning evaluation of alcohol withdrawal in the presence of other substances.
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Panelist, “Tips and Tricks for the Developing Pre-Trainee” (with Lawrence Brass, MD, PhD and Katie Hogan, BS), AAP/ASCI/APSA Annual Joint Meeting. April 23rd, 2023.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* (August 2021 - May 2022) TA for CHEM135
+* (Expected: Spring 2024) TA for NEUR305
   
 Service and leadership
 ======
