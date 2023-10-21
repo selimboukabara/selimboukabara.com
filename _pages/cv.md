@@ -12,12 +12,10 @@ redirect_from:
 Education
 ======
 * B.S. in Biochemistry, University of Maryland, College Park, 2022
-* FAES Microcredentials
-  * Bioinformatics Credential, May 2023 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87a18ca2-eb68-47c4-8d54-0092e78fc564" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  * Biomedical Sciences Endeavor, Expected: June 2023
-  * Biomedical Commercialization and Translation, Expected: December 2023
-  * Leadership, Expected: December 2023
+* Bioinformatics Credential, May 2023 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87a18ca2-eb68-47c4-8d54-0092e78fc564" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+* Biomedical Sciences Endeavor, September 2023
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5f4b4395-7fdc-425d-a099-31e1d3579622" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Things I did I'm proud of
 ======
@@ -58,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-Founder and Board Member of Science & Snacks at NIDA/NIA
