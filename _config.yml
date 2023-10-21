@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"  # Correct indentation for the locale key and its value
-title                    : "Selim Boukabara's Website"
+title                    : "Selim Boukabara's Website" 
 title_separator          : "-"
 name                     : &name "Selim Boukabara"
 description              : &description "This is my personal website and an attempt for me to talk about all my research."
